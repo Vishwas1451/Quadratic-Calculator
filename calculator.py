@@ -7,7 +7,6 @@ import math
 import speech_recognition as sr
 import pyttsx3
 
-
 root=Tk()
 root.title('Scientific calculator')
 e1=Entry(root,borderwidth=10,fg='black',bg='white')
